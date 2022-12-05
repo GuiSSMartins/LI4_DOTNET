@@ -1,4 +1,4 @@
-## Como programar em .NET (#C)?
+## || Como programar em .NET (#C)? ||
 
 Dado por julio.duarte@algoritmi.uminho.pt (Professor Júlio Duarte - Enegnharia Biomédica - Informática Médica)
 
