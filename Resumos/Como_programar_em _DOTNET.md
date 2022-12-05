@@ -1,6 +1,6 @@
 ## Como programar em .NET (#C)?
 
-Dado por julio.duarte@algoritmi.uminho.pt (Professor Júlio Duarte)
+Dado por julio.duarte@algoritmi.uminho.pt (Professor Júlio Duarte - Enegnharia Biomédica - Informática Médica)
 
 __Tecnologias__: _Microsoft Visual Studio_ e _.NET_
 
