@@ -6,6 +6,8 @@ __Tecnologias__: _Microsoft Visual Studio_ e _.NET_
 
 É um IDE (Integrated Development Environment): aplicação que fornece funcionalidades para o desenvolvimento de software (da Microsoft).
 
+Para o nosso trabalho, vai ser feito com o méodulo _WEB Designer_ (__ASP.NET__), que inclui __C#__, __HTML__, __Javascript__...
+
 ### -> Comandos básicos
 
 ### -> Ligação SQL Server - C#
