@@ -10,6 +10,8 @@ Para o nosso trabalho, vai ser feito com o méodulo _WEB Designer_ (__ASP.NET__)
 
 Também será usado o módulo Data Designer para fazer a ligação da Base de Dados com a aplicação web.
 
+Deve ser utilizado o __.NET FRAMEWORK__ para o sistema operativo Windows (não se aconselha usar Linux neste trabalho).
+
 ### -> Comandos básicos
 
 ### -> Ligação SQL Server - C#
