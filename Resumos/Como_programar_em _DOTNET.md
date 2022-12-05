@@ -1,5 +1,8 @@
 ## Como programar em .NET (#C)?
 
-### Comandos básicos
+Dado por julio.duarte@algoritmi.uminho.pt (Professor Júlio Duarte)
 
-### Ligação SQL Server - C#
+
+### -> Comandos básicos
+
+### -> Ligação SQL Server - C#
