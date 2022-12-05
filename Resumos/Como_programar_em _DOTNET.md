@@ -8,6 +8,8 @@ __Tecnologias__: _Microsoft Visual Studio_ e _.NET_
 
 Para o nosso trabalho, vai ser feito com o méodulo _WEB Designer_ (__ASP.NET__), que inclui __C#__, __HTML__, __Javascript__...
 
+Também será usado o módulo Data Designer para fazer a ligação da Base de Dados com a aplicação web.
+
 ### -> Comandos básicos
 
 ### -> Ligação SQL Server - C#
